@@ -27,7 +27,7 @@ def snowflake( n):
 
         Koch(length)
 
-        tu.rt(120)
+        tu.rt(60)
 length = 300.0
 tu.pu()         #画笔移动到（-150，90）以前不画
 tu.goto(-150,90)
